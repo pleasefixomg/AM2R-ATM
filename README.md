@@ -91,7 +91,7 @@ Lab + A4
 -Prime "Space Pirates Main Lab"  
 -DS "Surface of SR388 (Ambient)"  
 -Prime "Ancient Chozo Ruins"  
--Prime "Chozo Ruins Gate"  
+-Prime "Chozo Ruins Main Plaza"  
 -Prime "Chozo Ruins"  
 -Prime 2 "Vs. Amorbis"  
 

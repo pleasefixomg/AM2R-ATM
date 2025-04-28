@@ -41,14 +41,14 @@ CHANGES & ADDITIONS:
 -musArea3A (DS "Ancient Chozo Ruins V.2")  
 -musTester (Prime 2 "Vs. Amorbis")  
  
-7 tracks kept from AM2R with 4 changes:  
+7 tracks kept from AM2R with 5 changes:  
 -musArea2A (Formerly 1A. Cleaned up fade in/out)  
--musArea6A (Unedited)  
+-musCaveAmbience7A (Formerly musArea6A)  
 -musMonsterAppear2 (Formerly MonsterAppear)  
 -musGammaFight (Formerly OmegaFight)  
 -musQueen2 (Formerly Queen3)  
--musQueenBreak (Unedited)  
--musEnding (Unedited)  
+-musQueenBreak (Unchanged and unedited)  
+-musEnding (Unchanged and unedited)  
  
 4 tracks from Super Metroid restored with nearly all background noise and clipping removed:  
 -musIntroSeq (Intro Theme. Faded out to fit AM2R's intro length)  

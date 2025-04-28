@@ -127,7 +127,7 @@ A8 (Thoth)
 ---
 
 To-Do:  
--Record and finish last few songs. Complete any final touch-ups and normalization (0.9.2)  
+-Record and finish last few songs. Fix musAncientGuardian starting just a tad late. Complete any final touch-ups and normalization (0.9.2)  
 -Final playthrough quality pass + a title screen?!¿ <-HELP ME (1.0)  
 -Make it a dark and stormy night on Thoth so I can add one last song (1.1)  
 -See about solving the looping issues to reduce the need for extensions and dramatically cut down the file size (1.2)  

@@ -127,20 +127,19 @@ A8 (Thoth)
 ---
 
 To-Do:  
--Record and finish last few songs. Fix musAncientGuardian starting just a tad late. Complete any final touch-ups and normalization (0.9.3+)  
+-Continue reducing file sizes where possible and optimizing events to facilitate more. (0.9.3+)  
 -Final playthrough quality pass + a title screen?!¿ <-HELP ME (1.0)  
--Make it a dark and stormy night on Thoth so I can add one last song (1.1)  
--See about solving the looping issues to reduce the need for extensions and dramatically cut down the file size (1.2)  
--Sync up some events to reduce the need further (1.2.1)  
--Maybe see if the DUNDUNDUNDUNdundundun can be added back in as an extra track with some delays or something. Ditto to the "Metroid Eliminated" fanfare (1.3)  
+-See if the DUNDUNDUNDUNdundundun can be added back in as an extra track with some delays or something. Ditto to the "Metroid Eliminated" fanfare (1.1)  
+-Make it a dark and stormy night on Thoth so I can add one last song (1.2)  
 
 Currently Considering:  
 -Changing Frigate Orpheon to Torvus Catacombs. Opinions welcome.  
 
-Things I'd like to do but can't figure out:  
+Things I'd like to do but haven't figured out yet:  
 -Make oEggTrigger play musArea7C right after 7B is done instead of the transition being on the next screen.  
 -Make musOmegaFight begin playing as soon as the camera pan to the first Omega is done, while the gunfight is still happening.  
 -Make the Thoth elevator transition seamless enough that CaveAmbience fades out quickly, allowing Area8 to play without being cut-off as you get to the top.  
-(I want the opening couple seconds of Super Crateria Underground to be heard in the same fashion as when you hear it going down before the planet turns on basically. Maybe change the A8 portion of the elevator's speed to make it easier?)  
+-Get music to begin playing as soon as Ancient Guardian powers on.
+-Get music to begin playing as soon as Arachnus touches the ground.
 
 Anyone that has solutions to things I'm working on or is willing to help with a title screen because I will never, ever be an artist, feel free to reach out.

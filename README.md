@@ -139,7 +139,7 @@ Things I'd like to do but haven't figured out yet:
 -Make oEggTrigger play musArea7C right after 7B is done instead of the transition being on the next screen.  
 -Make musOmegaFight begin playing as soon as the camera pan to the first Omega is done, while the gunfight is still happening.  
 -Make the Thoth elevator transition seamless enough that CaveAmbience fades out quickly, allowing Area8 to play without being cut-off as you get to the top.  
--Get music to begin playing as soon as Ancient Guardian powers on.
--Get music to begin playing as soon as Arachnus touches the ground.
+-Get music to begin playing as soon as Ancient Guardian powers on.  
+-Get music to begin playing as soon as Arachnus touches the ground.  
 
 Anyone that has solutions to things I'm working on or is willing to help with a title screen because I will never, ever be an artist, feel free to reach out.

@@ -117,8 +117,8 @@ A7
 -DS "Vs. Metroid Queen"  
 -Gameboy "The Infant Metroid"  
 -Gameboy "Ending"  
--AM2R "Ending"  
 -DAN FREAKIN' OWSEN!!  
+-AM2R "Ending"  
 
 A8 (Thoth)  
 -Super "Crateria Underground"  

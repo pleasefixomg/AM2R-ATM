@@ -32,7 +32,7 @@ CHANGES & ADDITIONS:
 -musCaveAmbienceA3 (Gameboy "Deep Caverns 3")  
 -musCaveAmbienceA3C (DS "Deep Caverns 3")  
 -musCaveAmbienceA6 (Gameboy "Deep Caverns 4")  
--musCaveAmbienceA7 (Gameboy "Omega Metroid Territory")  
+-musCaveAmbienceA7 (AM2R "Omega Metroid Territory")  
 -musCaveAmbienceA8 (DS Crateria Super Metroid Rendition)  
 -musItemAmbS (Super Metroid "Item Room")  
 -musMonsterAppear2 (AM2R "Vs. Metroid" Intro)  
@@ -43,7 +43,7 @@ CHANGES & ADDITIONS:
  
 7 tracks kept from AM2R with 5 changes:  
 -musArea2A (Formerly 1A. Cleaned up fade in/out)  
--musCaveAmbience7A (Formerly musArea6A)  
+-musCaveAmbienceA7 (Formerly musArea6A)  
 -musMonsterAppear2 (Formerly MonsterAppear)  
 -musGammaFight (Formerly OmegaFight)  
 -musQueen2 (Formerly Queen3)  

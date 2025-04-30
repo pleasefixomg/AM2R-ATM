@@ -9,9 +9,9 @@ Almost every music track in AM2R has been replaced and edited in some way, and a
 
 Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
 
-Many room music transitions and starting bgms in save rooms have been changed around for better continuity and to better fit all the new stuff in.  
+Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in.  
 
-Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, I kept the footprint to about 1mb/min of music time, and am looking to fix some of these looping issues in the future to reduce the mod size. 
+Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, I kept the footprint to about 1mb/min of music time, and am actively working to continue reducing the mod's overall size as much as possible by turning those extensions into much shorter single loops. The latest patch was a whopping 25% reduction in size.
 
 ---
 
@@ -19,7 +19,7 @@ Because of the way Gamemaker handles looping, songs with intros were extended to
 
 ***THE AM2R LAUNCHER IS REQUIRED TO USE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
 
-***I CANNOT ASSIST YOU WITH GETTING THE LAUNCHER TO WORK ON YOUR RESPECTIVE OS***
+***I CANNOT ASSIST YOU WITH GETTING THE LAUNCHER TO WORK ON YOUR RESPECTIVE OS.***
 
 ***AM2R V1.1 IS NOT AND WILL NEVER BE INCLUDED IN THE DOWNLOAD FOR THIS MOD.***  
 
@@ -123,6 +123,16 @@ A7
 A8 (Thoth)  
 -Super "Crateria Underground"  
 -Super "Mini Boss Confrontation/Spore Spawn"  
+
+TRACK COUNT BY GAME:  
+Gameboy - 20  
+AM2R - 7  
+DS - 9  
+NES - 1  
+Super - 5  
+Fusion - 3  
+Prime - 5  
+Prime2 - 4  
 
 ---
 

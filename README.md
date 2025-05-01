@@ -96,7 +96,7 @@ Lab + A4
 -Prime 2 "Vs. Amorbis"  
 
 A5  
--Prime "Crashed Ship Frigate Orpheon"  
+-Prime 2 "Torvus Catacombs"  
 -DS “Area 7”  
 -NES "Item Room"  
 -Super "Item Room"  
@@ -131,25 +131,20 @@ DS - 9
 NES - 1  
 Super - 5  
 Fusion - 3  
-Prime - 5  
-Prime2 - 4  
+Prime - 4  
+Prime 2 - 5  
 
 ---
 
 To-Do:  
--Continue reducing file sizes where possible and optimizing events to facilitate more. (0.9.3+)  
+-Continue reducing file sizes where possible and optimizing events to facilitate more. (0.9.4+)  
 -Final playthrough quality pass + a title screen?!¿ <-HELP ME (1.0)  
 -See if the DUNDUNDUNDUNdundundun can be added back in as an extra track with some delays or something. Ditto to the "Metroid Eliminated" fanfare (1.1)  
 -Make it a dark and stormy night on Thoth so I can add one last song (1.2)  
-
-Currently Considering:  
--Changing Frigate Orpheon to Torvus Catacombs. Opinions welcome.  
 
 Things I'd like to do but haven't figured out yet:  
 -Make oEggTrigger play musArea7C right after 7B is done instead of the transition being on the next screen.  
 -Make musOmegaFight begin playing as soon as the camera pan to the first Omega is done, while the gunfight is still happening.  
 -Make the Thoth elevator transition seamless enough that CaveAmbience fades out quickly, allowing Area8 to play without being cut-off as you get to the top.  
--Get music to begin playing as soon as Ancient Guardian powers on.  
--Get music to begin playing as soon as Arachnus touches the ground.  
 
 Anyone that has solutions to things I'm working on or is willing to help with a title screen because I will never, ever be an artist, feel free to reach out.

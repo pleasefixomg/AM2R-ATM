@@ -137,10 +137,10 @@ Prime 2 - 5
 ---
 
 To-Do:  
--Finish the 6 songs mentioned above. (0.9.5) <- Might take a bit.
--Final script and object adjustments. EggTrigger, OmegaFight, Thoth Elevator, etc. (0.9.6)
--Final quality pass, title screen(HELP!), trailer(HELP!), credits, (1.0)
--Make it a dark and stormy night on Thoth. (1.1)
--If possible, figure out a way to get the DUNDUNDUNDUNdundundun and "Metroid Eliminated" fanfare in here. (1.2 or earlier if figured out prior)
+-Finish the 6 songs mentioned above. (0.9.5) <- Might take a bit.  
+-Final script and object adjustments. EggTrigger, OmegaFight, Thoth Elevator, etc. (0.9.6)  
+-Final quality pass, title screen(HELP!), trailer(HELP!), credits, (1.0)  
+-Make it a dark and stormy night on Thoth. (1.1)  
+-If possible, figure out a way to get the DUNDUNDUNDUNdundundun and "Metroid Eliminated" fanfare in here. (1.2 or earlier if figured out prior)  
 
 Anyone that has solutions to things I'm working on or is willing to help with a title screen or short trailer, please let me know.

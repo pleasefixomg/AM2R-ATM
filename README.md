@@ -1,4 +1,4 @@
-# AM2R (A)udial (T)ribute (M)od 
+# AM2R Audial Tribute Mod 
 This is a nearly full music replacement mod with a heavy focus on Metroid 2 and its remakes.  
 
 Originally started as a personal project to replace a mod I got from someone else a long time ago that exclusively used the gameboy soundtrack, now turned into a much more involved full-blown public release with way more work put into it than I had ever imagined.

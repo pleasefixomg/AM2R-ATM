@@ -137,14 +137,10 @@ Prime 2 - 5
 ---
 
 To-Do:  
--Continue reducing file sizes where possible and optimizing events to facilitate more. (0.9.4+)  
--Final playthrough quality pass + a title screen?!¿ <-HELP ME (1.0)  
--See if the DUNDUNDUNDUNdundundun can be added back in as an extra track with some delays or something. Ditto to the "Metroid Eliminated" fanfare (1.1)  
--Make it a dark and stormy night on Thoth so I can add one last song (1.2)  
+-Finish the 6 songs mentioned above. (0.9.5) <- Might take a bit.
+-Final script and object adjustments. EggTrigger, OmegaFight, Thoth Elevator, etc. (0.9.6)
+-Final quality pass, title screen(HELP!), trailer(HELP!), credits, (1.0)
+-Make it a dark and stormy night on Thoth. (1.1)
+-If possible, figure out a way to get the DUNDUNDUNDUNdundundun and "Metroid Eliminated" fanfare in here. (1.2 or earlier if figured out prior)
 
-Things I'd like to do but haven't figured out yet:  
--Make oEggTrigger play musArea7C right after 7B is done instead of the transition being on the next screen.  
--Make musOmegaFight begin playing as soon as the camera pan to the first Omega is done, while the gunfight is still happening.  
--Make the Thoth elevator transition seamless enough that CaveAmbience fades out quickly, allowing Area8 to play without being cut-off as you get to the top.  
-
-Anyone that has solutions to things I'm working on or is willing to help with a title screen because I will never, ever be an artist, feel free to reach out.
+Anyone that has solutions to things I'm working on or is willing to help with a title screen or short trailer, please let me know.

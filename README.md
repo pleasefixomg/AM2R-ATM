@@ -137,7 +137,7 @@ A8 (Thoth)
 ---
 
 To-Do:  
--Finish the 6 songs mentioned above. (0.9.5) <- Might take a bit.  
+-Record and touch-up remaining 6 songs. (0.9.5) <- Might take a bit.  
 -Final script and object adjustments. EggTrigger, OmegaFight, Thoth Elevator, etc. (0.9.6)  
 -Final quality pass, title screen(HELP!), trailer(HELP!), credits, (1.0)  
 -Make it a dark and stormy night on Thoth. (1.1)  

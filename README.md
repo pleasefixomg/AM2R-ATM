@@ -19,7 +19,7 @@ Almost every music track in AM2R has been replaced and edited in some way, and a
 
 Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
 
-Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, I kept the footprint to about 1mb/min of music time, and am actively working to continue reducing the mod's overall size as much as possible by turning those extensions into much shorter single loops. Over two revisions so far, the mod's size has already been reduced from 920MB to 596MB.
+Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, I kept the footprint to about 1mb/min of music time, and am actively working to continue reducing the mod's overall size as much as possible by turning those extensions into much shorter single loops. Over three revisions so far, the mod's size has already been reduced from 920MB to 531MB.
 
 Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in. Many scripts and objects were also altered to better facilitate more loops and reduce the need for extensions.
 

@@ -15,7 +15,7 @@ Many room music transitions and starting BGMs in save rooms have been changed ar
 
 INSTALLATION
 ---
--Download the mod from this page.  
+-Download the mod from this git.  
 -Extract it into a named folder within the "mods" folder of the launcher.  
 -Open the launcher, choose my mod from the dropdown, click install.  
 -Play.  

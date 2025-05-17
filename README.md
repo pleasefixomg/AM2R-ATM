@@ -5,16 +5,6 @@ Originally started as a personal project to replace a mod I got from someone els
 
 ---
 
-CURRENT TRACK COUNT BY GAME:  
-Gameboy - 20  
-AM2R - 7  
-DS - 9  
-NES - 1  
-Super - 5  
-Fusion - 3  
-Prime - 4  
-Prime 2 - 5  
-
 Almost every music track in AM2R has been replaced and edited in some way, and are still a work in-progress though now mostly complete. Some were re-recorded because nothing available was good enough, some were restored from the best recordings I could find, and everything was laboured over to be made as clear, seamless, and true to the source as possible. I grew up with these games in their eras and accuracy is paramount.
 
 Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
@@ -23,7 +13,14 @@ Because of the way Gamemaker handles looping, songs with intros were extended to
 
 Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in. Many scripts and objects were also altered to better facilitate more loops and reduce the need for extensions.
 
+Installation
 ---
+-Download the mod from this page.  
+-Extract it into a named folder within the "mods" folder of the launcher.  
+-Open the launcher, choose my mod from the dropdown, click install.  
+-Play.  
+
+If you already had the mod, simply extract and replace all files in the folder and the change will be picked up on next launcher start-up.  
 
 ***THE AM2R LAUNCHER IS REQUIRED TO FULLY UTILIZE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
 

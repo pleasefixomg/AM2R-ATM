@@ -15,7 +15,7 @@ Fusion - 3
 Prime - 4  
 Prime 2 - 5  
 
-Almost every music track in AM2R has been replaced and edited in some way, and are still a work in-progress though now mostly complete. You can see which files still need work by looking at the .ogg comments in the mod folder. Some were re-recorded because nothing available was good enough, some were restored from the best recordings I could find, and everything was laboured over to be made as clear, seamless, and true to the source as possible. I grew up with these games in their eras and accuracy is paramount.
+Almost every music track in AM2R has been replaced and edited in some way, and are still a work in-progress though now mostly complete. Some were re-recorded because nothing available was good enough, some were restored from the best recordings I could find, and everything was laboured over to be made as clear, seamless, and true to the source as possible. I grew up with these games in their eras and accuracy is paramount.
 
 Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
 

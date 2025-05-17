@@ -19,24 +19,25 @@ Almost every music track in AM2R has been replaced and edited in some way, and a
 
 Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
 
-Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, I kept the footprint to about 1mb/min of music time, and am actively working to continue reducing the mod's overall size as much as possible by turning those extensions into much shorter single loops. Over three revisions so far, the mod's size has already been reduced from 920MB to 531MB.
+Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, the footprint has been kept from approximately .5 to 1mb/min of music time.
 
 Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in. Many scripts and objects were also altered to better facilitate more loops and reduce the need for extensions.
 
 ---
 
-***PLEASE REPORT ANY ISSUES WITH VOLUME OR OTHER ODDITIES. CHECK THE TO-DO LIST BEFORE REPORTING ANY FUNKY TRANSITIONS AS IT MAY ALREADY BE KNOWN. THERE SHOULD BE NO CRASHES.***
+***THE AM2R LAUNCHER IS REQUIRED TO FULLY UTILIZE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
 
-***THE AM2R LAUNCHER IS REQUIRED TO USE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
+***YOU CAN CHOOSE TO REPLACE THE BASE GAME'S SONGS WITH THE FILES IN THIS PACKAGE INSTEAD, BUT MOST OF THE MOD'S ADDITIONAL TRACKS WILL NOT BE COMPATIBLE AND SOME EVENTS WILL BE OFF-SYNC.***  
 
-***I CANNOT ASSIST YOU WITH GETTING THE LAUNCHER TO WORK ON YOUR RESPECTIVE OS.***
+***I CANNOT ASSIST YOU WITH GETTING THINGS TO WORK ON YOUR RESPECTIVE OS.***
 
 ***AM2R V1.1 IS NOT AND WILL NEVER BE INCLUDED IN THE DOWNLOAD FOR THIS MOD.***  
 
+***JOIN THE OFFICIAL AM2R DISCORD FOR BASE GAME AND MOD DEVELOPMENT UPDATES*** https://discord.gg/eJt9PTd
+
+CHANGES & ADDITIONS
 ---
 
-CHANGES & ADDITIONS:
-  
 8 new tracks added to code:  
 -musCaveAmbienceA2 (Gameboy "Deep Caverns 2")  
 -musCaveAmbienceA3 (Gameboy "Deep Caverns 3")  
@@ -71,9 +72,12 @@ One sound file replaced:
  
 Everything else is something else and either looped or extended by me.    
  
+BGM FLOW  
 ---
- 
-BGM FLOW:  
+
+Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
+
+![image](https://github.com/user-attachments/assets/4f0e0fd5-d362-4aa2-8108-530d5dcb2825)
   
 A1  
 -Gameboy "Surface of SR388"  
@@ -136,11 +140,11 @@ A8 (Thoth)
 
 ---
 
-To-Do:  
--Record and touch-up remaining 6 songs. (0.9.5) <- Might take a bit.  
--Final script and object adjustments. EggTrigger, OmegaFight, Thoth Elevator, etc. (0.9.6)  
--Final quality pass, title screen(HELP!), trailer(HELP!), credits, (1.0)  
--Make it a dark and stormy night on Thoth. (1.1)  
--If possible, figure out a way to get the DUNDUNDUNDUNdundundun and "Metroid Eliminated" fanfare in here. (1.2 or earlier if figured out prior)  
+To-Do before 1.0:  
+-Area 8 decisions.  
+-Add DUNDUNDUNDUNdundundun and the Metroid Defeated fanfare if possible.  
+-Final script adjustments and quality pass.  
+-Add things to the title screen. Credits(maybe). Trailer(maybe).  
 
-Anyone that has solutions to things I'm working on or is willing to help with a title screen or short trailer, please let me know.
+1.1  
+-Make it a dark and stormy night on Thoth and then add one more song.  

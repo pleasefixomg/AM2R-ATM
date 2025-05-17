@@ -13,7 +13,7 @@ Because of the way Gamemaker handles looping, songs with intros were extended to
 
 Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in. Many scripts and objects were also altered to better facilitate more loops and reduce the need for extensions.
 
-Installation
+INSTALLATION
 ---
 -Download the mod from this page.  
 -Extract it into a named folder within the "mods" folder of the launcher.  

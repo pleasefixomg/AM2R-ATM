@@ -30,7 +30,9 @@ INSTALLATION
 -Open the launcher, choose the mod from the dropdown list, click install.  
 -Play.  
 
-If you already had the mod, simply extract and replace all files in the folder and the change will be picked up on next launcher start-up. The version number will update if successful.
+If you already had the mod, simply extract and replace all files in the folder and the change will be picked up on next launcher start-up. The version number will update if successful.  
+
+All releases can now generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
 
 ***THE AM2R LAUNCHER IS REQUIRED TO FULLY UTILIZE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
 

@@ -27,9 +27,9 @@ INSTALLATION
 ---
 -Download the mod from this git.  
 -Place the zip into the "mods" folder of the launcher.  
--Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip. 
--Once added, navigate back to the "Play" tab, select the mod from the dropdown if not already selected, and hit "Install"
--Play
+-Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip.  
+-Once added, navigate back to the "Play" tab, select the mod from the dropdown if not already selected, and hit "Install"  
+-Play  
 
 All releases can now generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
 

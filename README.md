@@ -26,17 +26,14 @@ Many room music transitions and starting BGMs in save rooms have been changed ar
 INSTALLATION
 ---
 -Download the mod from this git.  
--Extract it into a named folder within the "mods" folder of the launcher.  
--Open the launcher, choose the mod from the dropdown list, click install.  
--Play.  
-
-If you already had the mod, simply extract and replace all files in the folder and the change will be picked up on next launcher start-up. The version number will update if successful.  
+-Place the zip into the "mods" folder of the launcher.  
+-Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip. 
+-Once added, navigate back to the "Play" tab, select the mod from the dropdown if not already selected, and hit "Install"
+-Play
 
 All releases can now generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
 
 ***THE AM2R LAUNCHER IS REQUIRED TO FULLY UTILIZE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
-
-***YOU CAN CHOOSE TO REPLACE THE BASE GAME'S SONGS WITH THE FILES IN THIS PACKAGE INSTEAD, BUT MOST OF THE MOD'S ADDITIONAL TRACKS WILL NOT BE COMPATIBLE AND SOME EVENTS WILL BE OFF-SYNC. IF YOU REPLACE ALL FILES IN THE COMMUNITY UPDATES FOLDER IT WILL WORK, BUT THE BASE GAME WILL BE LOST.***  
 
 ***I CANNOT ASSIST YOU WITH GETTING THINGS TO WORK ON YOUR RESPECTIVE OS.***
 

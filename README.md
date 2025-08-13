@@ -80,7 +80,7 @@ A3
 -DS "Deep Daverns 3"  
 
 Research Lab into A4  
--Super "Opening"  
+-Super Mash-up "Collapse ~ Decimation of the Research Lab"  
 -DS "Crateria Underground"  
 -DS "Surface of SR388 (Ambient)"  
 -Prime "Ancient Chozo Ruins"  

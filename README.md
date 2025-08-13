@@ -5,6 +5,7 @@
 A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to enrich the experience—just as AM2R did.
 
 ### GO TO:  
+[NOTABLES](#notables)  
 [BGM FLOW](#bgm-flow)  
 [INSTALLATION](#installation)  
 

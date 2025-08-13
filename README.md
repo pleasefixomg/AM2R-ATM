@@ -70,7 +70,7 @@ A2
 -Gameboy "Deep Caverns 2"  
 -AM2R "Ancient Chozo Ruins"  
 -SR "Deep Caverns 2"  
--AM2R "Vs. Omega Metroid"
+-AM2R "Vs. Omega Metroid"  
 -Fusion "Vs. Cyclops"  
 
 A3  
@@ -86,7 +86,7 @@ Research Lab into A4
 -SR "Crateria Underground"  
 -SR "Surface of SR388 (Ambient)"  
 -Prime "Ancient Chozo Ruins"  
--SR "Vs. Omega Metroid"
+-SR "Vs. Omega Metroid"  
 -Prime "Chozo Ruins (Ruins Gate)"  
 -Prime 2 "Escape"  
 -Prime "Chozo Ruins"  

@@ -59,7 +59,7 @@ Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
   
 A1  
 -Gameboy "Surface of SR388"  
--Gameboy "Vs. Metroid"
+-Gameboy "Vs. Metroid"  
 -Gameboy "Deep Caverns 1"  
 -Gameboy "Ancient Chozo Ruins"  
 -SR "Deep Caverns 1"  

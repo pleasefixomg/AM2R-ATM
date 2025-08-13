@@ -1,89 +1,61 @@
 # AM2R Audial Tribute Mod 
-A nearly full music replacement mod for AM2R with a heavy focus on Metroid 2 and its remakes.  
 
-Originally started as a personal project to replace a mod I got from someone else a long time ago that exclusively used the gameboy soundtrack, now turned into a much more involved full-blown public release with way more work put into it than I had ever imagined.  
+*This readme is a work in-progress.  
 
-**Current Track Count by Game:**  
-Gameboy - 20  
-AM2R - 7  
-DS - 9  
+A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to enrich the experience—just as AM2R did.
+
+### GO TO:  
+[BGM FLOW](#bgm-flow)  
+[INSTALLATION](#installation)  
+
+# ABOUT
+
+Originally started as a personal project to replace a lost mod that exclusively used the gameboy soundtrack, now turned into a much more involved public release with way more work put into it than I had ever imagined.  
+
+Every music track in AM2R has been replaced and edited in some way. Some of those replacements were re-recorded because nothing available was good enough, some were restored from the best recordings I could find, and everything was laboured over to be made as clear, seamless, and true to the source as possible. I grew up with these games in their eras, and achieving accuracy in the mod's presentation was paramount during development.  
+
+Due to the way GameMaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. Boss themes with intros were extended to 10mins. For all songs, the footprint has been kept from approximately .5 to 1mb/min of music time.  
+
+Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. Many more scripts, objects, and events have also been altered and re-synced to support the new audio.
+
+Though many changes were made throughout the game to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting changes, curated and created to celebrate this game and the history that inspired it.  
+
+# NOTABLES
+-Over 200 script, object, and room code alterations, including fixes to some issues from the base game.  
+-57 total tracks to AM2R's 46.  
+-49 hand-crafted, low-carb, artisan edits made specifically for this mod.  
+-15 extensions, while 21 others lie on the cutting room floor.  
+-6 tracks kept from AM2R with 5 total changes.  
+-4 of the seven tracks from Super Metroid have been restored with nearly all background noise, clipping, and snes imperfections removed.  
+-2 major official song edits.  
+-1 labour of love.
+
+### Current Track Count by Game
+Gameboy - 22+1 (ALL SONGS!)  
+AM2R - 6+1  
+DS - 10  
 NES - 1  
-Super - 5  
+Super - 7  
 Fusion - 3  
-Prime - 4  
-Prime 2 - 5 
+Prime - 3  
+Prime 2 - 5  
 
----
+### A Tribute to History
 
-Almost every music track in AM2R has been replaced and edited in some way, and are still a work in-progress though now mostly complete. Some were re-recorded because nothing available was good enough, some were restored from the best recordings I could find, and everything was laboured over to be made as clear, seamless, and true to the source as possible. I grew up with these games in their eras and accuracy is paramount.
+Frame-perfect recreations of details that AM2R was still missing.
 
-Every track from the Gameboy game is here. The DUNDUNDUNDUNdundundun is gone though for now along with the "Metroid Eliminated" fanfare.  
+https://github.com/user-attachments/assets/87d39a02-d6e1-4e91-81c8-fc910d5a7448
 
-Because of the way Gamemaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. For all songs, the footprint has been kept from approximately .5 to 1mb/min of music time.
+https://github.com/user-attachments/assets/cd4e5ec3-dac1-4b0a-9ed6-ba33f9dba019
 
-Many room music transitions and starting BGMs in save rooms have been changed around for better continuity and to better fit all the new stuff in. Many scripts and objects were also altered to better facilitate more loops and reduce the need for extensions.
-
-INSTALLATION
----
--Download the mod from this git.  
--Place the zip into the "mods" folder of the launcher.  
--Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip.  
--Once added, navigate back to the "Play" tab, select the mod from the dropdown if not already selected, hit "Install"  
--Play  
-
-All releases can now generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
-
-***THE AM2R LAUNCHER IS REQUIRED TO FULLY UTILIZE THIS MOD:*** https://github.com/AM2R-Community-Developers/AM2RLauncher  
-
-***I CANNOT ASSIST YOU WITH GETTING THINGS TO WORK ON YOUR RESPECTIVE OS.***
-
-***AM2R V1.1 IS NOT AND WILL NEVER BE INCLUDED IN THE DOWNLOAD FOR THIS MOD.***  
-
-***JOIN THE OFFICIAL AM2R DISCORD FOR BASE GAME AND MOD DEVELOPMENT UPDATES*** https://discord.gg/eJt9PTd
-
-CHANGES & ADDITIONS
----
-
-8 new tracks added to code:  
--musCaveAmbienceA2 (Gameboy "Deep Caverns 2")  
--musCaveAmbienceA3 (Gameboy "Deep Caverns 3")  
--musCaveAmbienceA3C (DS "Deep Caverns 3")  
--musCaveAmbienceA6 (Gameboy "Deep Caverns 4")  
--musCaveAmbienceA7 (AM2R "Omega Metroid Territory")  
--musCaveAmbienceA8 (DS Crateria Super Metroid Rendition)  
--musItemAmbS (Super Metroid "Item Room")  
--musMonsterAppear2 (AM2R "Vs. Metroid" Intro)  
+### A World-First Discovery?!
+-It's my belief that both of Gameboy's Metroid Nest themes loop after 1h46m24s. Each of the four sound channels very fittingly revolving like the cosmos. They are not the only tracks that do this in the game, and have been kept in their entirety for the mod.  
+> Yes, I've considered writing to Yoshitomi-san about it...
  
-2 songs remixed/arranged/spliced/stitched/whatever you want to call it:  
--musArea3A (DS "Ancient Chozo Ruins V.2")  
--musTester (Prime 2 "Vs. Amorbis")  
- 
-7 tracks kept from AM2R with 5 changes:  
--musArea2A (Formerly 1A. Cleaned up fade in/out)  
--musCaveAmbienceA7 (Formerly musArea6A)  
--musMonsterAppear2 (Formerly MonsterAppear)  
--musGammaFight (Formerly OmegaFight)  
--musQueen2 (Formerly Queen3)  
--musQueenBreak (Unchanged and unedited)  
--musEnding (Unchanged and unedited)  
- 
-4 tracks from Super Metroid restored with nearly all background noise and clipping removed:  
--musIntroSeq (Intro Theme. Faded out to fit AM2R's intro length)  
--musArea8 (Crateria Underground)  
--musGenesis (Mini Boss Confrontation/Spore Spawn)  
--musItemAmbS (Item Room)  
- 
-One sound file replaced:  
--sndTLM (The Last Metroid Is In Captivity...) changed to original Super Metroid sound.  
- 
-Everything else is something else and either looped or extended by me.    
- 
-BGM FLOW  
----
-
+# BGM FLOW  
 Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
 
-![image](https://github.com/user-attachments/assets/4f0e0fd5-d362-4aa2-8108-530d5dcb2825)
+<img width="984" height="512" alt="image" src="https://github.com/user-attachments/assets/fe648c5a-5bae-42b7-8bac-039f9f2938dc" />
   
 A1  
 -Gameboy "Surface of SR388"  
@@ -106,18 +78,19 @@ A3
 -Prime 2 "Vs. Mutated Emperor Ing"  
 -DS "Deep Daverns 3"  
 
-Lab + A4  
--DS "Crateria Underground" (Currently unused until a transition is fixed and even then I'm not sure...)  
--Prime "Space Pirates Main Lab"  
+Research Lab into A4  
+-Super "Opening"  
+-DS "Crateria Underground"  
 -DS "Surface of SR388 (Ambient)"  
 -Prime "Ancient Chozo Ruins"  
--Prime "Chozo Ruins Main Plaza"  
+-Prime "Chozo Ruins (Ruins Gate)"  
+-Prime 2 "Escape"  
 -Prime "Chozo Ruins"  
 -Prime 2 "Vs. Amorbis"  
 
 A5  
 -Prime 2 "Torvus Catacombs"  
--DS “Area 7”  
+-DS "Area 7"  
 -NES "Item Room"  
 -Super "Item Room"  
 -Fusion "Vs. Serris"  
@@ -142,15 +115,33 @@ A7
 
 A8 (Thoth)  
 -Super "Crateria Underground"  
+-Super "Wrecked Ship"  
 -Super "Mini Boss Confrontation/Spore Spawn"  
+
+# INSTALLATION
+-If you don't already have the launcher, download it [here](https://github.com/AM2R-Community-Developers/AM2RLauncher) and extract it anywhere.  
+-Download the mod's zip from the latest release on [this page](https://github.com/pleasefixomg/AM2R-ATM/releases) and place it anywhere.  
+-[IF FRESH INSTALL] Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip.  
+-[IF UPDATING] Open the launcher -> Mod Settings Tab -> Select the mod from dropdown -> Update Mod -> Select the new zip.  
+-Navigate back to the "Play" tab, hit "Install".  
+-![mindblown-tim-and-eric](https://github.com/user-attachments/assets/c81b34ee-43f0-479b-9044-5f575bf04890)  
+
+To bypass the launcher after installation, create a shortcut to or launch from the .exe that is inside the mod's folder.  
+
+The latest release can generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
 
 ---
 
-To-Do before 1.0:  
--Area 8 decisions.  
--Add DUNDUNDUNDUNdundundun and the Metroid Defeated fanfare if possible.  
--Final script adjustments and quality pass.  
--Add things to the title screen. Credits(maybe). Trailer(maybe).  
+***I CANNOT ASSIST YOU WITH GETTING THINGS TO WORK ON YOUR RESPECTIVE OS OR DEVICE.***  
 
-1.1  
--Make it a dark and stormy night on Thoth and then add one more song.  
+***AM2R V1.1 IS NOT AND WILL NEVER BE INCLUDED IN THE DOWNLOAD FOR THIS MOD.***  
+
+***JOIN THE [OFFICIAL AM2R DISCORD](https://discord.gg/eJt9PTd) FOR BASE GAME AND MOD DEVELOPMENT UPDATES.***
+
+# IN THE FUTURE  
+-Thoth makeover (new backgrounds, rain/cloud/lightning effects, internal ship lighting adjustments) with accompanying music changes. `v1.1`  
+-Resplashed/Multitroid compatibility? Deprecated soon maybe anyway. `¯\_(ツ)_/¯`  
+
+There is no timeframe for any of this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects needed for Thoth, feel free to reach out.
+
+### Thank you for playing!

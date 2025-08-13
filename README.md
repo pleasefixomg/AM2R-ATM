@@ -34,7 +34,7 @@ Though many changes were made throughout the game to the audio presentation, the
 ### Current Track Count by Game
 Gameboy - 22+1 (ALL SONGS!)  
 AM2R - 6+1  
-DS - 10  
+Samus Returns - 10  
 NES - 1  
 Super - 7  
 Fusion - 3  
@@ -60,30 +60,33 @@ Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
   
 A1  
 -Gameboy "Surface of SR388"  
+-Gameboy "Vs. Metroid"
 -Gameboy "Deep Caverns 1"  
 -Gameboy "Ancient Chozo Ruins"  
--DS "Deep Caverns 1"  
+-SR "Deep Caverns 1"  
 -Fusion "Vs. Nightmare"  
 
 A2  
 -Gameboy "Deep Caverns 2"  
 -AM2R "Ancient Chozo Ruins"  
--DS "Deep Caverns 2"  
+-SR "Deep Caverns 2"  
+-AM2R "Vs. Omega Metroid"
 -Fusion "Vs. Cyclops"  
 
 A3  
 -Gameboy "Deep Caverns 3"  
--DS "Ancient Chozo Ruins V.2"  
--DS "Ancient Chozo Ruins V.1"  
+-SR "Ancient Chozo Ruins V.2"  
+-SR "Ancient Chozo Ruins V.1"  
 -Prime 2 "Vs. Emperor Ing"  
 -Prime 2 "Vs. Mutated Emperor Ing"  
--DS "Deep Daverns 3"  
+-SR "Deep Caverns 3"  
 
 Research Lab into A4  
 -Super Mash-up "Collapse ~ Decimation of the Research Lab"  
--DS "Crateria Underground"  
--DS "Surface of SR388 (Ambient)"  
+-SR "Crateria Underground"  
+-SR "Surface of SR388 (Ambient)"  
 -Prime "Ancient Chozo Ruins"  
+-SR "Vs. Omega Metroid"
 -Prime "Chozo Ruins (Ruins Gate)"  
 -Prime 2 "Escape"  
 -Prime "Chozo Ruins"  
@@ -91,7 +94,7 @@ Research Lab into A4
 
 A5  
 -Prime 2 "Torvus Catacombs"  
--DS "Area 7"  
+-SR "Area 7"  
 -NES "Item Room"  
 -Super "Item Room"  
 -Fusion "Vs. Serris"  
@@ -108,7 +111,7 @@ A7
 -Gameboy "Metroid Queen Lair"  
 -Gameboy "Vs. Metroid Queen"  
 -AM2R "Vs. Metroid Queen"  
--DS "Vs. Metroid Queen"  
+-SR "Vs. Metroid Queen"  
 -Gameboy "The Infant Metroid"  
 -Gameboy "Ending"  
 -DAN FREAKIN' OWSEN!!  

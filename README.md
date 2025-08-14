@@ -74,7 +74,7 @@ A2
 
 A3  
 -Gameboy "Deep Caverns 3"  
--SR "Ancient Chozo Ruins V.2" ~AM2R-ATM edit~  
+-SR "Ancient Chozo Ruins V.2" ~AM2R-ATM edit  
 -SR "Ancient Chozo Ruins V.1"  
 -Prime 2 "Vs. Emperor Ing"  
 -Prime 2 "Vs. Mutated Emperor Ing"  
@@ -89,7 +89,7 @@ Research Lab into A4
 -Prime "Chozo Ruins (Ruins Gate)"  
 -Prime 2 "Escape"  
 -Prime "Chozo Ruins"  
--Prime 2 "Vs. Amorbis" ~AM2R-ATM edit~  
+-Prime 2 "Vs. Amorbis" ~AM2R-ATM edit  
 
 A5  
 -Prime 2 "Torvus Catacombs"  

@@ -142,7 +142,7 @@ The latest release can generate an Android apk via the launcher to play on your 
 ***JOIN THE [OFFICIAL AM2R DISCORD](https://discord.gg/eJt9PTd) FOR BASE GAME AND MOD DEVELOPMENT UPDATES.***
 
 # IN THE FUTURE  
--Thoth makeover (new backgrounds, rain/cloud/lightning effects, internal ship lighting adjustments) with accompanying music changes. `v1.1`  
+-Thoth makeover (new background, rain/cloud/lightning effects, internal ship lighting adjustments) with accompanying music changes. `v1.1`  
 -Resplashed/Multitroid compatibility? Deprecated soon maybe anyway. `¯\_(ツ)_/¯`  
 
 There is no timeframe for any of this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects needed for Thoth, feel free to reach out.

@@ -2,7 +2,7 @@
 
 *This readme is a work in-progress.  
 
-A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to enrich the experience—just as AM2R did.
+A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to fill out the experience—just as AM2R did.
 
 ### GO TO:  
 [NOTABLES](#notables)  
@@ -19,7 +19,7 @@ Due to the way GameMaker handles looping, songs with intros were extended to 30m
 
 Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. Many more scripts, objects, and events have also been altered and re-synced to support the new audio.
 
-Though many changes were made throughout the game to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting changes, curated and created to celebrate this game and the history that inspired it.  
+Though many changes were made throughout the game to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting adjustments, curated and created to celebrate this game and the history that inspired it.  
 
 # NOTABLES
 -Over 200 script, object, and room code alterations, including fixes to some issues from the base game.  

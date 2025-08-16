@@ -143,8 +143,7 @@ The latest release can generate an Android apk via the launcher to play on your 
 
 # IN THE FUTURE  
 -Thoth makeover (new background, rain/cloud/lightning effects, internal ship lighting adjustments) with accompanying music changes. `v1.1`  
--Resplashed/Multitroid compatibility? Deprecated soon maybe anyway. `¯\_(ツ)_/¯`  
 
-There is no timeframe for any of this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects needed for Thoth, feel free to reach out.
+There is no timeframe for this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects needed for Thoth, feel free to reach out.
 
 ### Thank you for playing!

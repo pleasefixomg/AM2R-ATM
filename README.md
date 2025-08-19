@@ -134,7 +134,7 @@ A8 (Thoth)
 
 # INSTALLATION
 -If you don't already have the launcher, download it [here](https://github.com/AM2R-Community-Developers/AM2RLauncher) and extract it anywhere.  
--Download the mod's zip from the latest release on [this page](https://github.com/pleasefixomg/AM2R-ATM/releases) and place it anywhere.  
+-Download the latest mod release [here](https://github.com/pleasefixomg/AM2R-ATM/releases/tag/v1.0.0) and place it anywhere.  
 -[IF FRESH INSTALL] Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip.  
 -[IF UPDATING] Open the launcher -> Mod Settings Tab -> Select the mod from dropdown -> Update Mod -> Select the new zip.  
 -Navigate back to the "Play" tab, hit "Install".  

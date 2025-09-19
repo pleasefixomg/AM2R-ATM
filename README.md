@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/cd4e5ec3-dac1-4b0a-9ed6-ba33f9dba019
  
 # BGM FLOW  
 Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
-<img width="1052" height="500" alt="GRAFFFFFFS" src="https://github.com/user-attachments/assets/26693807-029c-470b-982a-c52e4ddb64ae" />
+<img width="1162" height="553" alt="GRAFFS" src="https://github.com/user-attachments/assets/8657bb3a-ef78-4103-9f61-4133a41b32bc" />
   
 A1  
 -Gameboy "Surface of SR388"  
@@ -85,16 +85,16 @@ A2
 
 A3  
 -Gameboy "Deep Caverns 3"  
--SR "Ancient Chozo Ruins V.2" ~AM2R-ATM edit  
--SR "Ancient Chozo Ruins V.1"  
 -Prime 2 "Vs. Emperor Ing"  
 -Prime 2 "Vs. Mutated Emperor Ing"  
--SR "Deep Caverns 3"  
-
-Research Lab into A4  
+-SR "Ancient Chozo Ruins V.2" ~AM2R-ATM edit  
+-SR "Ancient Chozo Ruins V.1"  
 -Super Mash-up "Collapse ~ Decimation of the Research Lab"  
 -SR "Crateria Underground"  
 -SR "Surface of SR388 (Ambient)"  
+-SR "Deep Caverns 3"  
+
+A4  
 -Prime "Ancient Chozo Ruins"  
 -SR "Vs. Omega Metroid"  
 -Prime "Chozo Ruins (Ruins Gate)"  

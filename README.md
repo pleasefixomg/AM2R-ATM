@@ -66,7 +66,8 @@ https://github.com/user-attachments/assets/cd4e5ec3-dac1-4b0a-9ed6-ba33f9dba019
  
 # BGM FLOW  
 Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:
-<img width="1162" height="553" alt="GRAFFS" src="https://github.com/user-attachments/assets/8657bb3a-ef78-4103-9f61-4133a41b32bc" />
+<img width="1162" height="553" alt="GRAFFS" src="https://github.com/user-attachments/assets/0a68ae46-63cb-44b8-b9a3-7ea7a75280da" />
+
   
 A1  
 -Gameboy "Surface of SR388"  

@@ -31,7 +31,7 @@ Though many changes were made throughout the game to the audio presentation, the
 
 # NOTABLES
 -Over 200 script, object, and room code alterations, including solutions to some audio issues from the base game.  
--57 total tracks to AM2R's 46 with more on the way.
+-57 total tracks to AM2R's 46 with more on the way.  
 -49 hand-crafted, low-carb, artisan edits made specifically for this mod.  
 -15 extensions, while 21 others lie on the cutting room floor.  
 -6 tracks kept from AM2R with 5 total changes.  

@@ -8,12 +8,9 @@
 
 
 ---
-  
-  
 
-*This readme is a work in-progress.  
 
-A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to fill out the experience—just as AM2R did.
+A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to fill out the experience. Just as AM2R did.
 
 ### GO TO:  
 [NOTABLES](#notables)  
@@ -28,13 +25,15 @@ Every music track in AM2R has been replaced and edited in some way. Some of thos
 
 Due to the way GameMaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. Boss themes with intros were extended to 10mins. For all songs, the footprint has been kept from approximately .5 to 1mb/min of music time.  
 
-Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. Many more scripts, objects, and events have also been altered and re-synced to support the new audio.
+Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. 
+
+Many more scripts, objects, and events have been created, altered, and/or re-synced to support the new audio.
 
 Though many changes were made throughout the game to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting adjustments, curated and created to celebrate this game and the history that inspired it.  
 
 # NOTABLES
--Over 200 script, object, and room code alterations, including fixes to some issues from the base game.  
--57 total tracks to AM2R's 46.  
+-Over 200 script, object, and room code alterations, including solutions to some audio issues from the base game.  
+-57 total tracks to AM2R's 46 with more on the way.
 -49 hand-crafted, low-carb, artisan edits made specifically for this mod.  
 -15 extensions, while 21 others lie on the cutting room floor.  
 -6 tracks kept from AM2R with 5 total changes.  
@@ -43,7 +42,7 @@ Though many changes were made throughout the game to the audio presentation, the
 -1 labour of love.
 
 ### Current Track Count by Game
-Gameboy - 22+1 (ALL SONGS!)  
+Gameboy - 22+1 (ALL TRACKS!)  
 AM2R - 6+1  
 Samus Returns - 10  
 NES - 1  
@@ -154,8 +153,9 @@ The latest release can generate an Android apk via the launcher to play on your 
 ***JOIN THE [OFFICIAL AM2R DISCORD](https://discord.gg/eJt9PTd) FOR BASE GAME AND MOD DEVELOPMENT UPDATES.***
 
 # IN THE FUTURE  
--Thoth makeover (new background, rain/cloud/lightning effects, internal ship lighting adjustments) with accompanying music changes. `v1.1`  
+-A few additional tracks to be added with some other adjustments. `v1.0.1`  
+-New gray background re-colouring, new rain/cloud/lightning effects, with accompanying changes to Thoth, possibly the end sequence, and some additional music changes. `v1.1`  
 
-There is no timeframe for this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects needed for Thoth, feel free to reach out.
+There is no timeframe for this. The original scope of this project is now complete, and any further work will be sporadic unless it involves fixing bugs. If you'd like to contribute to the new art and effects, feel free to reach out.
 
 ### Thank you for playing!

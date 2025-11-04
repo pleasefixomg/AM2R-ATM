@@ -25,9 +25,7 @@ Every music track in AM2R has been replaced and edited in some way. Some of thos
 
 Due to the way GameMaker handles looping, songs with intros were extended to 30mins in hopes that you don't loop back around to the intro even if you pause for a bit. Boss themes with intros were extended to 10mins. For all songs, the footprint has been kept from approximately .5 to 1mb/min of music time.  
 
-Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. 
-
-Many more scripts, objects, and events have been created, altered, and/or re-synced to support the new audio.
+Many room music transitions and starting BGMs in save rooms have been changed around both to better mirror the gameboy version and to fit all of the new stuff in. Many more scripts, objects, and events have been created, altered, and/or re-synced to support the new audio.
 
 Though many changes were made throughout the game to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting adjustments, curated and created to celebrate this game and the history that inspired it.  
 

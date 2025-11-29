@@ -8,7 +8,7 @@
 
 
 ---
-*This readme is a work in-progress*
+
 
 A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to fill out the experience. Just as AM2R did.
 
@@ -49,12 +49,17 @@ Fusion - 3
 Prime - 3  
 Prime 2 - 5  
 
----CONSTRUCTION ZONE---  
+### A Tribute to History
+
+Frame-perfect recreations of details that AM2R was still missing.
+
+https://github.com/user-attachments/assets/87d39a02-d6e1-4e91-81c8-fc910d5a7448
+
+https://github.com/user-attachments/assets/cd4e5ec3-dac1-4b0a-9ed6-ba33f9dba019
+
 ### A World-First Discovery?!
 -It's my belief that both of Gameboy's Metroid Nest themes loop after 1h46m24s. Each of the four sound channels very fittingly revolving like the cosmos. They are not the only tracks that do this in the game, and have been kept in their entirety for the mod.  
-> Yes, I've considered writing to Yoshitomi-san about it...  
-
----CONSTRUCTION ZONE---  
+> Yes, I've considered writing to Yoshitomi-san about it...
  
 # BGM FLOW  
 Behold, the most gorgeous progression timeline and Gantt chart you've ever seen:

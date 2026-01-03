@@ -131,18 +131,46 @@ A8 (Thoth)
 -Super "Mini Boss Confrontation/Spore Spawn"  
 
 # INSTALLATION
--If you don't already have the launcher, download it [here](https://github.com/AM2R-Community-Developers/AM2RLauncher) and extract it anywhere.  
--Download the latest mod release [here](https://github.com/pleasefixomg/AM2R-ATM/releases/tag/v1.0.0) and place it anywhere.  
--[IF FRESH INSTALL] Open the launcher -> Mod Settings Tab -> Add New Mod -> Select the zip.  
--[IF UPDATING] Open the launcher -> Mod Settings Tab -> Select the mod from dropdown -> Update Mod -> Select the new zip.  
--Navigate back to the "Play" tab, hit "Install".  
--![mindblown-tim-and-eric](https://github.com/user-attachments/assets/c81b34ee-43f0-479b-9044-5f575bf04890)  
+
+1. If you do not already have the AM2R Launcher, download it from [here](<https://github.com/AM2R-Community-Developers/AM2RLauncher>) and extract it anywhere.
+
+2. If you do not already have a copy of AM2R v1.1, acquire one. You...do know how to search for things on the internet, right? Ideally, place the zip file in the launcher’s root directory.
+
+3. Download the latest mod release from [here](<https://github.com/pleasefixomg/AM2R-ATM/releases/tag/v1.0.0>) and place the zip file anywhere.
+
+4. Follow the appropriate instructions below:
+
+   - **Fresh Everything**
+     - Open the launcher.
+     - Click "download".
+     - PLEASE WAIT!!
+     - Select your AM2R1.1 zip if it's not already in the root directory. If the zip is already present, you will see "install" instead.
+     - Go to the "mod settings" tab.
+     - Click "add new mod".
+     - Select the mod zip.
+
+   - **Fresh Install**
+     - Open the launcher.
+     - Go to the "mod settings" tab.
+     - Click "add new mod".
+     - Select the mod zip.
+
+   - **Updating an Existing Install**
+     - Open the launcher.
+     - Go to the "mod settings" tab.
+     - Select the mod from the dropdown.
+     - Click "update mod".
+     - Select the new mod zip.
+
+5. Navigate back to the "play" tab and click "install".
+
+6. ![mindblown-tim-and-eric](https://github.com/user-attachments/assets/c81b34ee-43f0-479b-9044-5f575bf04890)
+
+---
 
 To bypass the launcher after installation, create a shortcut to or launch from the .exe that is inside the mod's folder.  
 
-The latest release can generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation.  
-
----
+The latest release can generate an Android apk via the launcher to play on your phone or other Android device. Please note that the apk will not work on Android 14+ due to 32bit deprecation. However, emulators (yup, we're emulating phones on phones now) and other unsupported ways around this are beginning to show up. Attempt at your own risk.
 
 ***I CANNOT ASSIST YOU WITH GETTING THINGS TO WORK ON YOUR RESPECTIVE OS OR DEVICE.***  
 

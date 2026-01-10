@@ -157,12 +157,12 @@ A8 (Thoth)
 
    - **Updating an Existing Install**
      - Open the launcher.
-     - Go to the "mod settings" tab.
      - Select the mod from the dropdown.
+     - Go to the "mod settings" tab.
      - Click "update mod".
      - Select the new mod zip.
 
-5. Navigate back to the "play" tab, select the mod from the dropdown if not already selected, and click "install".
+5. Navigate back to the "play" tab and click "install".
 
 6. ![mindblown-tim-and-eric](https://github.com/user-attachments/assets/c81b34ee-43f0-479b-9044-5f575bf04890)
 

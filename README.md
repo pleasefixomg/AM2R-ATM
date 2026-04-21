@@ -9,6 +9,8 @@
 
 ---
 
+***THIS README IS UNDER CONSTRUCTION AND HAS NOT BEEN UPDATED FOR VERSION 1.1***
+
 
 A full music replacement and collection of supporting tweaks focused on Metroid II and its remakes, while drawing inspiration from other titles in the series to fill out the experience. Just as AM2R did.
 

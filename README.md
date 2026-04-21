@@ -140,7 +140,7 @@ A8 (Thoth)
 
 2. If you do not already have a copy of AM2R v1.1, acquire one. You...do know how to search for things on the internet, right? Ideally, place the zip file in the launcher’s root directory.
 
-3. Download the latest mod release from [here](<https://github.com/pleasefixomg/AM2R-ATM/releases/tag/v1.0.0>) and place the zip file anywhere.
+3. Download the latest mod release from [here](https://github.com/pleasefixomg/AM2R-ATM/releases/tag/v1.1.0-rc1) and place the zip file anywhere.
 
 4. Follow the appropriate instructions below:
 

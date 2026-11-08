@@ -34,7 +34,7 @@ The music placement throughout the game has been changed around both to better m
 Though many changes were made to the audio presentation, the pacing of the game itself has been left largely unchanged to preserve the feel of a normal run. There are no new shortcuts or other changes to the map and no changes to anything mechanical. It's just a new soundtrack selection and set of supporting adjustments, curated and created to celebrate this game and the history that inspired it.  
 
 # NOTABLES
--Over 200 script, object, and room code alterations, including solutions to some audio issues from the base game.  
+-Over 200 script, object, and room code alterations.  
 -57 total tracks to AM2R's 46 with more on the way.  
 -49 hand-crafted, low-carb, artisan edits made specifically for this mod.  
 -15 extensions, while 21 others lie on the cutting room floor.  

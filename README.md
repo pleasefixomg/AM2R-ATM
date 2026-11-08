@@ -38,7 +38,7 @@ Though many changes were made to the audio presentation, the pacing of the game 
 -57 total tracks to AM2R's 46 with more on the way.  
 -49 hand-crafted, low-carb, artisan edits made specifically for this mod.  
 -15 extensions.  
--6 tracks kept from AM2R with 5 total changes.
+-6 tracks kept from AM2R with 5 total changes.  
 -1 labour of love.
 
 ### Current Track Count by Game
